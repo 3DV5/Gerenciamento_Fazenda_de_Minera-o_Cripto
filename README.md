@@ -1,0 +1,1 @@
+# Gerenciamento_Fazenda_de_Minera-o_Cripto
