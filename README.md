@@ -1,1 +1,1 @@
-# Gerenciamento_Fazenda_de_Minera-o_Cripto
+# Sistema de Gerenciamento Inteligente para Mineração de Criptomoedas - CriptoFarm 
