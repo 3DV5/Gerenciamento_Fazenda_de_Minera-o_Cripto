@@ -1,1 +1,1 @@
-# Sistema de Gerenciamento Inteligente para Mineração de Criptomoedas - CriptoFarm 
+# Sistema de simulação de Gerenciamento Inteligente para Mineração de Criptomoedas - CriptoFarm 
